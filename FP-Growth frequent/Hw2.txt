@@ -1,0 +1,5 @@
+ Implement FP-Growth frequent itemset mining method. 
+
+Be prepared for the demo section. You can have your demo any time till the end of the semester.
+
+Upload your dataset with your code too. But be prepared to test your code with any dataset.
